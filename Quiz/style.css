@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: wheat;
+}
+header{
+    height: 80px;
+    background-color: rgb(1, 1, 147);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+ .label{
+    background-color: rgb(85, 85, 158);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px; 
+ }
+ #labelO{
+    margin-left: 90px;
+ }
+  .body1{
+    
+    height: 400px;
+    background-color: whitesmoke;
+    margin-left:30px ;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 40px;
+    
+  }
+  #about{
+    
+    border-bottom: 4px solid black;
+    padding-top: 5px;
+    padding-left: 3px;
+  }
+  #image{
+    size: 5px;
+    padding: 40px;
+  }
+  #para{
+    font-size: larger;
+    padding-top: 40px;
+    
+  }
+  .skill{
+    padding: 20px;
+    padding-top: 10px;
+    height: 40px;
+    margin-top: 10px;
+  }
+  #Colourblock1{
+    border-left: 3px solid blue;
+    padding-top: 10px;
+    background-color: whitesmoke;
+    border: 2px solid gray;
+    color: black;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 25px;
+  }
+table {
+    border-collapse: collapse;
+    width: 95%;   
+    margin: 50px ;
+}
+
+th{
+    border: 1px solid #0d0c0c;
+    padding: 18px;
+    text-align: center
+}
+ td {
+    border: 1px solid #0d0c0c;
+    padding: 18px;
+    text-align: left;
+}
+
+th {
+    background: rgb(136, 6, 117);
+    color: #fff;
+    text-align: center;
+}
+footer{
+    height: 80px;
+    background-color: rgb(1, 1, 147);
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+span{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-weight: 600;
+    display: block;
+}
+input {
+    margin-left: 50px;
+    margin-bottom: 20px;
+    /* padding: 8px; */
+    width:70%
+}
+.about2 {
+    height: 550px;
+    background-color: #fff;
+    margin: 20px 40px 20px 40px;
+}
+#form{
+    padding-top: 20px;
+}
+.about2 h4{
+    padding-left: 30px;
+}
+.about2 #btn1{
+    margin-right: 30px;
+height: 30px;
+width: 90px;
+background-color: rgb(1, 1, 147);
+color: #fff;
+}
+#btn{
+ margin-left: 30px; 
+}
+.about2 #btn2{
+      
+height: 30px;
+width: 90px;
+font-weight: 600;
+background-color: rgb(1, 1, 147);
+color: #fff;
+}
+.button{
+  display: inline-block;
+  background-color: blue;
+  color: #fff;
+}
